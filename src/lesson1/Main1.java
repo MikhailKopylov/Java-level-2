@@ -1,4 +1,4 @@
-package lesson1.marathon;
+package lesson1;
 
 import lesson1.marathon.interfaces.Obstacle;
 import lesson1.marathon.interfaces.Dynamic;

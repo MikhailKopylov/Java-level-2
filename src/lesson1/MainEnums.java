@@ -1,4 +1,6 @@
-package lesson1.enums;
+package lesson1;
+
+import lesson1.enums.DayOfWeek;
 
 public class MainEnums {
 
